@@ -8,7 +8,7 @@
 
 # **Neal Sharma's Awesome Inc. Blog**
 
-![My Family](img/my-family.JPG)
+![My Family](/img/my-family.JPG)
 
 ## **Was your first week what you expected? Why? Why not?**
 
