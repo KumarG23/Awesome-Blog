@@ -4,7 +4,7 @@
 
 ## [My First Project](https://kumarg23.github.io/food-blog.github.io/)🍛
 
-## [My Portfolio](./Kumar-portfolio-page/)👨‍💼
+## [My Portfolio](https://kumarg23.github.io/kumarBlog/)👨‍💼
 
 # **Neal Sharma's Awesome Inc. Blog**
 
